@@ -7,7 +7,8 @@
 ## Hint
   > This can be solved online if you don't want to do it by hand!
 ## Solution
- 
+ -  rot13 rotates each character by thirteen places.
+ -  Use the website https://www.rot13.com or calculate by hand.
 ### Flag
-`picoCTF{Flag_Here}`
+`picoCTF{this_is_crypto!}`
 

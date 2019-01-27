@@ -1,0 +1,2 @@
+0x3D is 61
+picoCTF{61}

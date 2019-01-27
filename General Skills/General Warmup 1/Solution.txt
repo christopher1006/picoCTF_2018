@@ -1,1 +1,0 @@
-0x41 is equivalent to 65, which is equivalent to 'A'

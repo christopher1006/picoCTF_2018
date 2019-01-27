@@ -1,0 +1,3 @@
+Cipher is a Vigenère type. Decryption results in "secretmessage" as the answer.
+
+Credit: https://planetcalc.com/2468/ for decryption process.

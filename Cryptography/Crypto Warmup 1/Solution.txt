@@ -1,3 +1,3 @@
-Cipher is a Vigenère type. Decryption results in "secretmessage" as the answer.
+Cipher is a Vigenère type. Decryption results in "secretmessage", thus picoCTF{SECRETMESSAGE} is the final answer.
 
 Credit: https://planetcalc.com/2468/ for decryption process.

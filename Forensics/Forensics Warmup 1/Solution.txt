@@ -1,1 +1,0 @@
-Filetype was ZIP. Extraction resulted in an image with the flag - "picoCTF{welcome_to_forensics}"

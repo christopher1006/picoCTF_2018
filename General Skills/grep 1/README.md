@@ -7,6 +7,6 @@
 ## Hint
   > grep tutorial (https://ryanstutorials.net/linuxtutorial/grep.php)
 ## Solution
- 
+  > For a grep based search, the parameters `egrep 'picoCTF{'` correctly returns the full line with flag.
 ### Flag
-`picoCTF{Flag_Here}`
+`picoCTF{grep_and_you_will_find_42783683}`

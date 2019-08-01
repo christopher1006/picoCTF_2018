@@ -7,7 +7,7 @@
   > nc tutorial (https://linux.die.net/man/1/nc)
 ## Solution
   > Install netcat
-  > Run `nc -p SOURCE_PORTNUMBER* 2018shell.picoctf.com 49387`
+  > Run `nc 2018shell.picoctf.com 49387`
   > Upon succesful TCP connection, the flag is returned.
   > * Note SOURCE_PORTNUMBER must be an integer matching a usable source port.
 ### Flag

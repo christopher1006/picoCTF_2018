@@ -7,6 +7,6 @@
 ## Hint
   > grep tutorial (https://ryanstutorials.net/linuxtutorial/grep.php)
 ## Solution
- 
+ Recursively search through the provided file directories using grep -R. `grep -R picoCTF *`
 ### Flag
-`picoCTF{Flag_Here}`
+`picoCTF{grep_r_and_you_will_find_8eb84049}`

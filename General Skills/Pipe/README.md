@@ -9,6 +9,6 @@
   > Ever heard of a pipe? No not that kind of pipe... This kind (http://www.linfo.org/pipes.html)
 
 ## Solution
- 
+ Use netcat and grep - `nc 2018shell.picoctf.com 48696 | grep picoCTF`
 ### Flag
-`picoCTF{Flag_Here}`
+`picoCTF{almost_like_mario_f617d1d7}`
